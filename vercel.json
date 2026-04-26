@@ -22,6 +22,6 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_SOCKET_URL": "https://streampro-backend.onrender.com"
+    "REACT_APP_SOCKET_URL": "https://streampro-backend.onrender.com"
   }
 }
